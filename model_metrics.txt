@@ -1,0 +1,5 @@
+Model: xgb
+ROC-AUC: 0.7215
+PR-AUC : 0.4065
+Precision@10%: 0.5023
+Scored period (t): 2021-12-19
