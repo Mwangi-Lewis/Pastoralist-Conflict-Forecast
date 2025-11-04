@@ -1,0 +1,8 @@
+County: West Pokot
+Training/Test split date: 2021-01-01
+Scored period (t): 2020-12-18
+ROC-AUC: 0.9237
+PR-AUC : 0.7872
+Precision@10%: 0.8801
+Train positives: 10060
+Test positives : 7062
